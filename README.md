@@ -64,25 +64,4 @@
   <img src="https://raw.githubusercontent.com/amishaaggarwal/amishaaggarwal/output/snake-dark.svg" alt="snake animation dark mode"/>
 </p>
 
----
-
-# 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amisha-aggarwal" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/amishaaggarwal">
-    <img src="https://img.shields.io/github/followers/amishaaggarwal?label=Follow&style=social"/>
-  </a>
-</p>
-
----
-
 ![](https://komarev.com/ghpvc/?username=amishaaggarwal&color=blue)
