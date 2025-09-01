@@ -61,9 +61,8 @@
 
 # 🐍 Contribution Graph Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amishaaggarwal/amishaaggarwal/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/amishaaggarwal/amishaaggarwal/output/snake-dark.svg" alt="snake animation dark mode"/>
 </p>
-
 
 ---
 
